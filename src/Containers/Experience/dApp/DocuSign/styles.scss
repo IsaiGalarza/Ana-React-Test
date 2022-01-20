@@ -1,0 +1,71 @@
+.colorBar {
+  width: 100%;
+  height: 60px;
+  background-color: #E5D0FF;
+  position: relative;
+}
+
+.docuSign {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  bottom: -40px;
+  left: 18px;
+}
+
+.share-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: #587BE0;
+  margin-bottom: 0px;
+}
+
+.share-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+}
+
+.docusign-description {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #6F6E73;
+  margin-bottom: 8px;
+}
+
+.docusign-utilities {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: #587BE0;
+}
+
+.open-btn {
+  width: 105px;
+  height: 40px;
+  border-radius: 10px !important;
+  padding: 8px 14px !important;
+}
+
+.users-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.tab-item {
+  cursor: pointer;
+  padding: 4px 0px;
+}
+
+.tab-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 20px;
+  color: #33373B;
+}
