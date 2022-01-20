@@ -6,7 +6,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 node version for project
   v17.3.1
 
-There is MockData for endpoints in src/Assets/MockData.json
+There is Mock data for endpoints in src/Assets/MockData.json
 
  - Mock data for getting Dapps by Categories
     "Caategories" object
