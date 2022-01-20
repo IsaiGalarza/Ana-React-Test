@@ -1,0 +1,60 @@
+{
+  "RecentExperience": [
+    {
+      "icon": 0,
+      "title": "DeFi Swap",
+      "description": "Swap your digital assets",
+      "user": "+200 users"
+    },
+    {
+      "icon": 1,
+      "title": "Docu sign",
+      "description": "sign smart contracts seamlessly",
+      "user": "+1K users"
+    }
+  ],
+  "Caategories": [
+    {
+      "icon": 0,
+      "title": "Exchanges",
+      "backgroundColor": "#EAEFFF"
+    },
+    {
+      "icon": 1,
+      "title": "Games",
+      "backgroundColor": "#F5F5F5"
+    },
+    {
+      "icon": 2,
+      "title": "Marketplaces",
+      "backgroundColor": "#E2F9F3"
+    },
+    {
+      "icon": 3,
+      "title": "Defi",
+      "backgroundColor": "#FFF3EC"
+    },
+    {
+      "icon": 4,
+      "title": "Collectibles",
+      "backgroundColor": "#EBF5FF"
+    },
+    {
+      "icon": 5,
+      "title": "Utilities",
+      "backgroundColor": "#F0EBFF"
+    }
+  ],
+  "Activities": [
+    {
+      "icon": 0,
+      "description": "johndoe.near signed the contract successfully",
+      "time": "2 days ago"
+    },
+    {
+      "icon": 1,
+      "description": "CryptoKing.near requested to sign the contract ",
+      "time": "3 days ago"
+    }
+  ]
+}
